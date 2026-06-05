@@ -17,7 +17,7 @@ f1_dashboard/
 ├── collect_weather.py   # Descarga datos meteorológicos de Open-Meteo
 ├── build_html.py        # Genera index.html y dashboard.html
 ├── index.html           # Dashboard autocontenido (GitHub Pages)
-├── dashboard.html       # Idem (nombre alternativo)
+├── dashboard.html       
 ├── data/
 │   ├── races_base.csv
 │   ├── drivers_base.csv
@@ -26,7 +26,7 @@ f1_dashboard/
 │   ├── f1_positions_base.csv
 │   └── weather_base.csv
 └── assets/
-    └── custom.css       # Estilos del servidor Dash (no necesario para index.html)
+    └── custom.css       
 ```
 
 ---
