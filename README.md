@@ -2,7 +2,7 @@
 
 Visualización interactiva que analiza hasta qué punto la **posición de parrilla condiciona el resultado final** en Fórmula 1, y cómo varía esa relación según el circuito, la temporada y las condiciones meteorológicas.
 
-**Demo en línea:** [https://marc13-cr.github.io/f1-grid-vs-result/](https://marc13-cr.github.io/f1-grid-vs-result/)
+**Visualización:** [https://marc13-cr.github.io/f1-grid-vs-result/](https://marc13-cr.github.io/f1-grid-vs-result/)
 
 Práctica Final — Visualización de Datos · Universitat Oberta de Catalunya (UOC)  
 Autor: Marc Masramon Martí
